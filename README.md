@@ -1,2 +1,2 @@
-# AvionSchool
-  cd ~  mkdir AvionSchool
+cd ~  mkdir AvionSchool
+  mkdir AvionSchool  
